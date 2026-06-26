@@ -1,0 +1,435 @@
+◇ injected env (6) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+Server is running on port 8080
+MongoDB connected
+[0mGET /api/chats/campus-wide [36m304[0m 769.619 ms - -[0m
+[0mGET /api/users [36m304[0m 957.315 ms - -[0m
+[0mGET /api/posts [36m304[0m 1127.192 ms - -[0m
+[0mGET /api/posts [36m304[0m 178.826 ms - -[0m
+[0mGET /api/notices [32m200[0m 212.843 ms - 704[0m
+[0mGET /api/results [36m304[0m 318.743 ms - -[0m
+[0mGET /api/notices [36m304[0m 39.668 ms - -[0m
+[0mGET /api/results [36m304[0m 46.368 ms - -[0m
+[0mGET /api/posts [36m304[0m 230.715 ms - -[0m
+[0mGET /api/posts [36m304[0m 42.031 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 497.888 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 433.547 ms - 16[0m
+[0mGET /api/users [36m304[0m 450.655 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 463.318 ms - -[0m
+[0mGET /api/posts [36m304[0m 589.049 ms - -[0m
+[0mGET /api/users [36m304[0m 479.637 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 485.788 ms - -[0m
+[0mGET /api/posts [36m304[0m 492.872 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 481.300 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 218.020 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 528.411 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 181.086 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 52.428 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 137.217 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 100.838 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 100.498 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 99.273 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 25.745 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 335.780 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 8.309 ms - -[0m
+[0mGET /api/users [36m304[0m 49.200 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 86.950 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 79.852 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 105.114 ms - 16[0m
+[0mGET /api/users [36m304[0m 48.857 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 23.376 ms - -[0m
+[0mGET /api/notices [36m304[0m 45.082 ms - -[0m
+[0mGET /api/results [36m304[0m 54.781 ms - -[0m
+[0mGET /api/posts [36m304[0m 73.206 ms - -[0m
+[0mGET /api/notices [36m304[0m 62.996 ms - -[0m
+[0mGET /api/results [36m304[0m 59.771 ms - -[0m
+[0mGET /api/posts [36m304[0m 18.229 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 49.578 ms - 16[0m
+[0mGET /api/users [36m304[0m 114.043 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 131.854 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 126.822 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 26.601 ms - -[0m
+[0mGET /api/users [36m304[0m 73.412 ms - -[0m
+[0mGET /api/posts [36m304[0m 212.895 ms - -[0m
+[0mGET /api/posts [36m304[0m 27.371 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 90.822 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 94.329 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 90.938 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 90.663 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 90.665 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 44.875 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 40.027 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 46.814 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 48.156 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 44.222 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 46.170 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 22.720 ms - -[0m
+[0mPOST /api/uploads/cloud [32m201[0m 5388.535 ms - 248[0m
+[0mOPTIONS /api/create-post [32m204[0m 0.599 ms - 0[0m
+[0mPOST /api/create-post [32m201[0m 39.954 ms - 384[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [32m200[0m 5.308 ms - 30[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 9.563 ms - -[0m
+[0mPOST /api/auth/logout [32m200[0m 1.069 ms - 39[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.194 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 151.512 ms - 650[0m
+[0mGET /api/notices [36m304[0m 32.718 ms - -[0m
+[0mGET /api/results [36m304[0m 31.135 ms - -[0m
+[0mGET /api/posts [32m200[0m 63.477 ms - 2090[0m
+[0mGET /api/notices [36m304[0m 32.490 ms - -[0m
+[0mGET /api/results [36m304[0m 38.499 ms - -[0m
+[0mGET /api/posts [36m304[0m 36.307 ms - -[0m
+[0mGET /api/posts [36m304[0m 39.041 ms - -[0m
+[0mGET /api/posts [36m304[0m 15.361 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 44.010 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 45.091 ms - 16[0m
+[0mGET /api/users [36m304[0m 37.191 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 49.607 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 20.602 ms - -[0m
+[0mGET /api/users [36m304[0m 38.934 ms - -[0m
+[0mGET /api/posts [36m304[0m 49.087 ms - -[0m
+[0mGET /api/posts [36m304[0m 18.099 ms - -[0m
+[0mGET /api/notices [36m304[0m 24.245 ms - -[0m
+[0mGET /api/results [36m304[0m 27.588 ms - -[0m
+[0mGET /api/posts [36m304[0m 52.693 ms - -[0m
+[0mGET /api/notices [36m304[0m 28.909 ms - -[0m
+[0mGET /api/results [36m304[0m 27.520 ms - -[0m
+[0mGET /api/posts [36m304[0m 104.095 ms - -[0m
+[0mGET /api/users [36m304[0m 55.345 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 56.886 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 53.855 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 58.547 ms - -[0m
+[0mGET /api/posts [36m304[0m 88.289 ms - -[0m
+[0mGET /api/users [36m304[0m 32.256 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 38.137 ms - -[0m
+[0mGET /api/posts [36m304[0m 73.180 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 57.172 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 222.662 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 231.636 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 230.583 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 228.501 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 240.435 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 42.259 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 33.743 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 111.123 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 78.985 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 53.842 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 60.999 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 17.451 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 20.422 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 63.888 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 74.083 ms - 16[0m
+[0mGET /api/users [36m304[0m 87.333 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 78.287 ms - -[0m
+[0mGET /api/users [36m304[0m 33.018 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 29.595 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 61.060 ms - 16[0m
+[0mGET /api/users [36m304[0m 53.220 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 66.029 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 60.086 ms - -[0m
+[0mGET /api/users [36m304[0m 29.880 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 39.148 ms - -[0m
+[0mGET /api/posts [36m304[0m 52.740 ms - -[0m
+[0mGET /api/posts [36m304[0m 26.550 ms - -[0m
+[0mGET /api/results/search?department=computer&rollNumber=723290 [36m304[0m 29.602 ms - -[0m
+[0mGET /api/notices [36m304[0m 67.921 ms - -[0m
+[0mGET /api/results [36m304[0m 74.651 ms - -[0m
+[0mGET /api/posts [36m304[0m 72.605 ms - -[0m
+[0mGET /api/notices [36m304[0m 30.412 ms - -[0m
+[0mGET /api/results [36m304[0m 31.888 ms - -[0m
+[0mGET /api/posts [36m304[0m 56.388 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 38.341 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 43.019 ms - 16[0m
+[0mGET /api/users [36m304[0m 49.964 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 62.461 ms - -[0m
+[0mGET /api/posts [36m304[0m 82.632 ms - -[0m
+[0mGET /api/users [36m304[0m 33.740 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 32.079 ms - -[0m
+[0mGET /api/posts [36m304[0m 281.599 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 367.586 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 306.237 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 382.726 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 363.327 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 369.504 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 290.998 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 85.570 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 83.441 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 79.264 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 66.647 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 97.238 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 95.540 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 14.975 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 15.070 ms - -[0m
+[0mGET /api/users [36m304[0m 32.269 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 50.685 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 53.771 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 55.169 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 46.342 ms - -[0m
+[0mGET /api/users [36m304[0m 64.938 ms - -[0m
+[0mGET /api/users/6a3d6b917a5ec3515e0b9add [32m200[0m 38.061 ms - 621[0m
+[0mGET /api/users/6a3d6b917a5ec3515e0b9add [36m304[0m 33.191 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 186.939 ms - -[0m
+[0mGET /api/users [36m304[0m 217.940 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 628.859 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 429.470 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 129.846 ms - -[0m
+[0mGET /api/users [36m304[0m 147.338 ms - -[0m
+[0mGET /api/notices [32m200[0m 8.905 ms - 704[0m
+[0mGET /api/results [36m304[0m 64.416 ms - -[0m
+CastError: Cast to ObjectId failed for value "result" (type string) at path "_id" for model "Posts"
+    at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:252:11)
+    at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+    at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+    at Array.map (<anonymous>)
+    at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+    at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39)
+    at Query.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:5228:12)
+    at Query._castConditions (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:2411:10) {
+  stringValue: '"result"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'result',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\bson\lib\bson.cjs:2647:23)
+      at castObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:250:12)
+      at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+      at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+      at Array.map (<anonymous>)
+      at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+      at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39),
+  valueType: 'string'
+}
+[0mGET /api/posts [31m500[0m 60.519 ms - 51[0m
+[0mGET /api/users [36m304[0m 53.219 ms - -[0m
+[0mGET /api/notices [36m304[0m 8.194 ms - -[0m
+[0mGET /api/results [36m304[0m 17.331 ms - -[0m
+CastError: Cast to ObjectId failed for value "result" (type string) at path "_id" for model "Posts"
+    at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:252:11)
+    at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+    at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+    at Array.map (<anonymous>)
+    at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+    at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39)
+    at Query.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:5228:12)
+    at Query._castConditions (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:2411:10) {
+  stringValue: '"result"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'result',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\bson\lib\bson.cjs:2647:23)
+      at castObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:250:12)
+      at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+      at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+      at Array.map (<anonymous>)
+      at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+      at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39),
+  valueType: 'string'
+}
+[0mGET /api/posts [31m500[0m 18.389 ms - 51[0m
+[0mGET /api/users [36m304[0m 13.626 ms - -[0m
+[0mGET /api/users [36m304[0m 21.501 ms - -[0m
+[0mPOST /api/chats/department:computer/seen [32m200[0m 21.573 ms - 16[0m
+[0mGET /api/chats/department:computer [36m304[0m 32.021 ms - -[0m
+[0mGET /api/users [36m304[0m 34.312 ms - -[0m
+[0mPOST /api/chats/6a3d6b917a5ec3515e0b9add:6a3e3f7883fddfa9b7218bb3/seen [32m200[0m 18.308 ms - 16[0m
+[0mGET /api/users [36m304[0m 19.531 ms - -[0m
+[0mGET /api/chats/6a3d6b917a5ec3515e0b9add:6a3e3f7883fddfa9b7218bb3 [32m200[0m 21.085 ms - 404[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 56.916 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 71.829 ms - 16[0m
+[0mGET /api/users [36m304[0m 79.368 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 67.438 ms - -[0m
+[0mGET /api/posts [36m304[0m 111.364 ms - -[0m
+[0mGET /api/users [36m304[0m 35.014 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 40.114 ms - -[0m
+[0mGET /api/posts [36m304[0m 39.454 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 86.273 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 75.236 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 69.193 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 69.042 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 74.783 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 61.602 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 80.689 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 201.081 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 195.778 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 193.021 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 141.013 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 107.418 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 18.867 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 11.382 ms - -[0m
+[0mGET /api/notices [36m304[0m 49.762 ms - -[0m
+[0mGET /api/results [36m304[0m 54.642 ms - -[0m
+[0mGET /api/posts [36m304[0m 82.980 ms - -[0m
+[0mGET /api/notices [36m304[0m 27.024 ms - -[0m
+[0mGET /api/results [36m304[0m 32.711 ms - -[0m
+[0mGET /api/posts [36m304[0m 50.019 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 59.600 ms - 621[0m
+[0mGET /api/auth/me [36m304[0m 38.215 ms - -[0m
+[0mGET /api/results [36m304[0m 80.840 ms - -[0m
+[0mGET /api/notices [36m304[0m 102.616 ms - -[0m
+[0mGET /api/posts [36m304[0m 248.952 ms - -[0m
+[0mGET /api/results [36m304[0m 121.762 ms - -[0m
+[0mGET /api/notices [36m304[0m 119.697 ms - -[0m
+[0mGET /api/posts [36m304[0m 44.069 ms - -[0m
+[0mGET /api/users [36m304[0m 35.135 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 95.293 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 101.852 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 115.047 ms - -[0m
+[0mGET /api/users [36m304[0m 43.389 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 23.470 ms - -[0m
+[0mGET /api/users [36m304[0m 12.380 ms - -[0m
+[0mPOST /api/chats/department:computer/seen [32m200[0m 18.758 ms - 16[0m
+[0mGET /api/users [36m304[0m 18.058 ms - -[0m
+[0mGET /api/chats/department:computer [36m304[0m 18.164 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 14.409 ms - 16[0m
+[0mGET /api/users [36m304[0m 14.969 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 15.244 ms - -[0m
+[0mGET /api/users [36m304[0m 68.626 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 51.279 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 50.944 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 50.896 ms - -[0m
+[0mGET /api/posts [36m304[0m 116.793 ms - -[0m
+[0mGET /api/users [36m304[0m 60.412 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 58.773 ms - -[0m
+[0mGET /api/posts [36m304[0m 46.973 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 69.227 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 57.040 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 58.589 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 54.893 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 52.189 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 90.977 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 38.261 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 32.399 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 33.811 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 34.433 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 35.833 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 36.552 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 23.225 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 22.800 ms - -[0m
+[0mGET /api/notices [36m304[0m 30.900 ms - -[0m
+[0mGET /api/results [36m304[0m 33.641 ms - -[0m
+[0mGET /api/results [36m304[0m 16.602 ms - -[0m
+[0mGET /api/posts [36m304[0m 63.064 ms - -[0m
+[0mGET /api/notices [36m304[0m 31.450 ms - -[0m
+[0mGET /api/posts [36m304[0m 27.220 ms - -[0m
+[0mGET /api/posts [36m304[0m 31.637 ms - -[0m
+[0mGET /api/posts [36m304[0m 18.976 ms - -[0m
+[0mGET /api/users [36m304[0m 54.984 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 64.196 ms - 16[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 56.083 ms - 16[0m
+[0mGET /api/chats/campus-wide [36m304[0m 128.810 ms - -[0m
+[0mGET /api/posts [36m304[0m 149.668 ms - -[0m
+[0mGET /api/users [36m304[0m 25.644 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 30.076 ms - -[0m
+[0mGET /api/posts [36m304[0m 17.168 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 47.831 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 73.727 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 74.877 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 82.808 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 82.884 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 85.082 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e397077d15bde24698b0f&userId=undefined [36m304[0m 67.687 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e37eb3a48f86a0052b5ef&userId=undefined [36m304[0m 74.685 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e355e80f6521e3d84e162&userId=undefined [36m304[0m 80.465 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 96.810 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e4e51cef0a999320d2add&userId=undefined [36m304[0m 103.719 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e379580f6521e3d84e163&userId=undefined [36m304[0m 103.890 ms - -[0m
+[0mGET /api/likes/check?postId=6a3e353780f6521e3d84e161&userId=undefined [36m304[0m 13.267 ms - -[0m
+[0mGET /api/likes/check?postId=6a3d72eab3f2dfc1281f886d&userId=undefined [36m304[0m 9.257 ms - -[0m
+[0mGET /api/notices [36m304[0m 30.523 ms - -[0m
+[0mGET /api/results [36m304[0m 33.399 ms - -[0m
+[0mGET /api/posts [36m304[0m 46.476 ms - -[0m
+[0mGET /api/notices [36m304[0m 18.110 ms - -[0m
+[0mGET /api/results [36m304[0m 19.796 ms - -[0m
+[0mGET /api/posts [36m304[0m 34.522 ms - -[0m
+[0mGET /api/posts [36m304[0m 29.408 ms - -[0m
+[0mGET /api/posts [36m304[0m 15.847 ms - -[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 92.240 ms - 16[0m
+[0mGET /api/users [36m304[0m 104.787 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 44.229 ms - -[0m
+CastError: Cast to ObjectId failed for value "result" (type string) at path "_id" for model "Posts"
+    at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:252:11)
+    at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+    at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+    at Array.map (<anonymous>)
+    at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+    at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39)
+    at Query.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:5228:12)
+    at Query._castConditions (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:2411:10) {
+  stringValue: '"result"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'result',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\bson\lib\bson.cjs:2647:23)
+      at castObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:250:12)
+      at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+      at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+      at Array.map (<anonymous>)
+      at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+      at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39),
+  valueType: 'string'
+}
+[0mGET /api/posts [31m500[0m 53.200 ms - 51[0m
+[0mPOST /api/chats/campus-wide/seen [32m200[0m 53.081 ms - 16[0m
+[0mGET /api/users [36m304[0m 37.507 ms - -[0m
+[0mGET /api/chats/campus-wide [36m304[0m 45.273 ms - -[0m
+CastError: Cast to ObjectId failed for value "result" (type string) at path "_id" for model "Posts"
+    at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:252:11)
+    at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+    at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+    at Array.map (<anonymous>)
+    at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+    at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+    at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39)
+    at Query.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:5228:12)
+    at Query._castConditions (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\query.js:2411:10) {
+  stringValue: '"result"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: 'result',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\bson\lib\bson.cjs:2647:23)
+      at castObjectId (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schema\objectId.js:250:12)
+      at SchemaType.applySetters (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1373:12)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1793:17)
+      at C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1748:18
+      at Array.map (<anonymous>)
+      at SchemaObjectId.handle$in (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1744:14)
+      at SchemaType.castForQuery (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\schemaType.js:1789:20)
+      at cast (C:\Users\Shimu\OneDrive\Desktop\TPINFORUM\backend\node_modules\mongoose\lib\cast.js:363:39),
+  valueType: 'string'
+}
+[0mGET /api/posts [31m500[0m 47.802 ms - 51[0m
+[0mGET /api/auth/me [33m401[0m 0.994 ms - 47[0m
+[0mGET /api/auth/me [33m401[0m 0.292 ms - 47[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.181 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.192 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.284 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.199 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.177 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.149 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.135 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.231 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.161 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.214 ms - 0[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.143 ms - 0[0m
