@@ -151,12 +151,26 @@ app.post("/api/uploads/cloud", requireAuth, upload.single("file"), async (req, r
             stream.end(req.file.buffer);
         });
 
-        res.status(201).json({
+        const responseData = {
             success: true,
             url: payload.secure_url,
             resourceType: payload.resource_type || (req.file.mimetype.startsWith("video/") ? "video" : "image"),
             publicId: payload.public_id,
-        });
+        };
+
+        // If a userField is specified (e.g. "profilePicture", "coverPhoto"),
+        // automatically update the authenticated user's document with the uploaded URL
+        const allowedUserFields = ["profilePicture", "coverPhoto"];
+        if (req.body.userField && allowedUserFields.includes(req.body.userField)) {
+            const updatedUser = await User.findByIdAndUpdate(
+                req.user._id,
+                { [req.body.userField]: payload.secure_url },
+                { new: true, runValidators: true }
+            ).select(publicUserFields);
+            responseData.user = sanitizeUser(updatedUser);
+        }
+
+        res.status(201).json(responseData);
     } catch (error) {
         res.status(500).json({ success: false, message: error.message || "Upload failed" });
     }
