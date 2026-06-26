@@ -63,8 +63,8 @@ export const registration = async (req, res) => {
         const token = jwt.sign({ id: userData._id }, JWT_SECRET, { expiresIn: '7d' })
         const cookieOptions = {
             httpOnly: true,
-            sameSite: 'lax',
-            secure: false,
+            sameSite: 'none',
+            secure: true,
             maxAge: 7 * 24 * 60 * 60 * 1000
         }
         // save token in database
@@ -133,8 +133,8 @@ export const login = async (req, res) => {
         const token = jwt.sign({ id: user._id }, JWT_SECRET, { expiresIn: '7d' })
         const cookieOptions = {
             httpOnly: true,
-            sameSite: 'lax',
-            secure: false,
+            sameSite: 'none',
+            secure: true,
             maxAge: 7 * 24 * 60 * 60 * 1000
         }
         // save token in database
