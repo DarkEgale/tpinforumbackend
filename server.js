@@ -39,23 +39,7 @@ app.use(cookieParser());
 app.use(morgan("dev"));
 app.use(cors({ origin: CLIENT_ORIGIN, credentials: true }));
 
-const ensureDefaultAdmin = async () => {
-    const adminCount = await User.countDocuments({ role: "admin" });
-    if (adminCount > 0) return;
 
-    await User.create({
-        name: process.env.DEFAULT_ADMIN_NAME || "System Admin",
-        email: process.env.DEFAULT_ADMIN_EMAIL || "admin@tpiforum.local",
-        age: process.env.DEFAULT_ADMIN_AGE || "N/A",
-        phone: process.env.DEFAULT_ADMIN_PHONE || "0000000000",
-        department: process.env.DEFAULT_ADMIN_DEPARTMENT || "computer",
-        semester: "all",
-        password: await bcrypt.hash(process.env.DEFAULT_ADMIN_PASSWORD || "admin123", 10),
-        role: "admin",
-        status: "active",
-    });
-    console.log("Default admin created: admin@tpiforum.local / admin123");
-};
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/tpiforum")
     .then(async () => {
